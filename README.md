@@ -1,1 +1,3 @@
-CRIAÇÃO DA HOME DA MY DEV PACK!
+Criação do modelo MyDevPack!
+** Conceito ** ** Não aplicado **
+

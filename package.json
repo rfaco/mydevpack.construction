@@ -1,0 +1,22 @@
+{
+  "name": "mydevpack",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfaco/mydevpack.construction.git"
+  },
+  "author": "Roger F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfaco/mydevpack.construction/issues"
+  },
+  "homepage": "https://github.com/rfaco/mydevpack.construction#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
